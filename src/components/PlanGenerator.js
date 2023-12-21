@@ -21,7 +21,7 @@ function PlanGenerator({ diet, workout, getDiet, getWorkout }) {
         ) : (
           <>
             <p>{`Workout: ${workout.workout}`}</p>
-            <p>{`Workout: ${workout.tip}`}</p>
+            <p>{`Tip: ${workout.tip}`}</p>
           </>
         )}
       </div>
