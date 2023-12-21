@@ -11,6 +11,10 @@ const diets = [
     diet: "No normal sodas",
     tip: "If you regularly drink soda, try drinking the diet version of your favorite beverage",
   },
+  {
+    diet: "No traditional bread",
+    tip: "Try a gluten free alternative or just skip it for the day altogether",
+  },
 ];
 
 export default diets;
