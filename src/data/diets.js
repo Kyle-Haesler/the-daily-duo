@@ -29,7 +29,7 @@ const diets = [
   },
   {
     diet: "No liquid calories",
-    tips: "Aside from a splash of cream in your coffee or tea, do not drink any liquids that have calories",
+    tip: "Aside from a splash of cream in your coffee or tea, do not drink any liquids that have calories",
   },
 ];
 
