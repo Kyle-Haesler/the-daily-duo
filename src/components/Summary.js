@@ -19,7 +19,8 @@ function Summary() {
         <h2>Summary</h2>
         <ul>
           <li>
-            Everyday, come to our website and generate a diet and a workout
+            Everyday, come to our website and generate a diet and a workout for
+            the day
           </li>
           <li>
             Follow this protocol for atleast a week and note any changes you may
