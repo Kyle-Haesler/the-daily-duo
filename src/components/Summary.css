@@ -1,0 +1,26 @@
+article {
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+    justify-content: center;
+    padding-bottom: 30px;
+    border-bottom: 5px solid white;
+    
+}
+
+.col {
+    flex: 1;
+    text-align: center;
+    margin: 0 20px;
+}
+
+h2 {
+    font-size: 50px;
+    border-bottom: 2px solid white;
+    padding-bottom: 10px;
+}
+
+li {
+    text-align: left;
+    font-size: 30px;
+}
