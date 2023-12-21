@@ -5,7 +5,7 @@ const diets = [
   },
   {
     diet: "No alcohol",
-    tip: "If you have a big event tonight, regenerate a new dietary restriction:) ",
+    tip: "If you have a big event tonight, generate a new dietary restriction :) ",
   },
   {
     diet: "No normal sodas",
