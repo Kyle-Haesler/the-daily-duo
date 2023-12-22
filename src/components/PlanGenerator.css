@@ -1,7 +1,9 @@
 main {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     margin-top: 40px;
+    margin: 40px 20px;
 }
 
 p {

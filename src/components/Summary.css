@@ -1,5 +1,6 @@
 article {
     display: flex;
+    flex-wrap: wrap;
     margin-left: 40px;
     margin-right: 40px;
     justify-content: center;
@@ -24,3 +25,11 @@ li {
     text-align: left;
     font-size: 30px;
 }
+
+
+@media screen and (max-width: 1400px){
+    .col {
+        flex: none;
+        width: 100%;
+    }
+}  
