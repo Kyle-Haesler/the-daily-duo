@@ -16,7 +16,7 @@ function Summary() {
         </ul>
       </div>
       <div className="col">
-        <h2>Summary</h2>
+        <h2>BOB DOESNT PELOTON</h2>
         <ul>
           <li>
             Everyday, come to our website and generate a diet and a workout for
