@@ -31,6 +31,10 @@ const workouts = [
     workout: "20 bicep curls",
     tip: "If you don't have weights at home, grab a backpack or something heavy and let her rip!",
   },
+  {
+    workout: "30 bodyweight lunges",
+    tip: "These do not have to be consecutive, 30 total (15 each leg)",
+  },
 ];
 
 export default workouts;
