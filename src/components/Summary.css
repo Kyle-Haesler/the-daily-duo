@@ -31,5 +31,17 @@ li {
     .col {
         flex: none;
         width: 100%;
+        margin: 0 10px;
     }
+    article, header {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    p, li {
+        font-size: 15px;
+    }
+    h2, button {
+        font-size: 25px;
+    }
+    
 }  

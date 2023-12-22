@@ -23,3 +23,17 @@ button:hover {
     color: white;
     border-color: white;
 }
+
+@media screen and (max-width: 1400px){
+    article, header {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    p {
+        font-size: 15px;
+    }
+    button {
+        font-size: 25px;
+    }
+    
+}  
