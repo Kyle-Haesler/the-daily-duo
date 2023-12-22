@@ -9,7 +9,9 @@ function PlanGenerator({ diet, workout, getDiet, getWorkout }) {
           <div></div>
         ) : (
           <>
-            <p>{`Diet: ${diet.diet}`}</p>
+            <b>
+              <p>{`Diet: ${diet.diet}`}</p>
+            </b>
             <p>{`Tip: ${diet.tip}`}</p>
           </>
         )}
@@ -20,7 +22,9 @@ function PlanGenerator({ diet, workout, getDiet, getWorkout }) {
           <></>
         ) : (
           <>
-            <p>{`Workout: ${workout.workout}`}</p>
+            <b>
+              <p>{`Workout: ${workout.workout}`}</p>
+            </b>
             <p>{`Tip: ${workout.tip}`}</p>
           </>
         )}
